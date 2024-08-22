@@ -1,0 +1,9 @@
+{
+  "name": "A",
+  "version": "1.0.0",
+  "description": "B",
+  "main": "index.js",
+  "dependencies": {
+    "child_process": "^1.0.2"
+  }
+}
